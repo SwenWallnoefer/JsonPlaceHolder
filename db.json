@@ -9,6 +9,21 @@
       "id": 2,
       "imageName": "hamburger.jpeg",
       "categoryName": "Hamburger"
+    },
+    {
+      "id": 3,
+      "imageName": "fingerfood.jpeg",
+      "categoryName": "Finger Food"
+    },
+    {
+      "id": 4,
+      "imageName": "pommes.jpeg",
+      "categoryName": "Extras"
+    },
+    {
+      "id": 5,
+      "imageName": "drinks.jpeg",
+      "categoryName": "Getränke"
     }
   ],
   "profile": {
