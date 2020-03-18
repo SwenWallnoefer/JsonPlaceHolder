@@ -26,6 +26,48 @@
       "categoryName": "Getränke"
     }
   ],
+  "Articles": [
+    {
+      "id": 1,
+      "mainCategoryId": 1
+      "imageName": "salamipizza.jpeg",
+      "articleName": "Pizza Salami",
+      "description": "Pizza Mozzerella, Tomaten, scharfe Salami",
+      "price": 7.5
+    },
+    {
+      "id": 2,
+      "mainCategoryId": 1
+      "imageName": "schinkenpizza.jpeg",
+      "articleName": "Pizza Schinken",
+      "description": "Pizza Mozzerella, Tomaten, Prager- Schinken",
+      "price": 6.8
+    },
+    {
+      "id": 3,
+      "mainCategoryId": 1
+      "imageName": "käsepizza.jpeg",
+      "articleName": "Pizza 4 Käse",
+      "description": "Pizza Vier Käsesorten mit Mozzarella, Tomaten",
+      "price": 8.3
+    },
+    {
+      "id": 4,
+      "mainCategoryId": 1
+      "imageName": "doenerpizza.jpeg",
+      "articleName": "Pizza Döner",
+      "description": "Pizza Tomaten, Döner",
+      "price": 5.9
+    },
+    {
+      "id": 5,
+      "mainCategoryId": 1
+      "imageName": "wuerstelpizza.jpeg",
+      "articleName": "Pizza Würstel",
+      "description": "Pizza Mozzerella, Tomaten, Würstel, Pommes Frittes",
+      "price": 8.6
+    }    
+  ],
   "profile": {
     "name": "typicode"
   },
