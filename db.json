@@ -1,12 +1,12 @@
 {
   "MainCategories": [
     {
-      "id": 1
+      "id": 1,
       "imageName": "pizza.jpeg",
       "categoryName": "Pizza"
     },
     {
-      "id": 2
+      "id": 2,
       "imageName": "hamburger.jpeg",
       "categoryName": "Hamburger"
     }
