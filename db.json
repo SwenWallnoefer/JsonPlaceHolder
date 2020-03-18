@@ -11,5 +11,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "user": {
+    "name": "Swen",
+    "age": 42
   }
 }
