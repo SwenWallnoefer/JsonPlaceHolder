@@ -1,21 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "my friend"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "user": {
-    "name": "Swen",
-    "age": 42
-  },
   "MainCategories": [
     {
       "imageName": "pizza.jpeg",
@@ -25,4 +8,12 @@
       "imageName": "hamburger.jpeg",
       "categoryName": "Hamburger"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": {
+    "name": "Swen",
+    "age": 42
+  }
+}
