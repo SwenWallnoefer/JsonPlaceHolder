@@ -16,4 +16,13 @@
     "name": "Swen",
     "age": 42
   }
-}
+  "MainCategories": [
+    {
+      "imageName": "pizza.jpeg",
+      "categoryName": "Pizza"
+    },
+    {
+      "imageName": "hamburger.jpeg",
+      "categoryName": "Hamburger"
+    }
+  ]
