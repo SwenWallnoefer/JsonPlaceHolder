@@ -66,7 +66,71 @@
       "articleName": "Pizza Würstel",
       "description": "Pizza Mozzerella, Tomaten, Würstel, Pommes Frittes",
       "price": 8.6
-    }    
+    },
+    {
+      "id": 6,
+      "mainCategoryId": 5,
+      "imageName": "cola.jpeg",
+      "articleName": "Coca Cola",
+      "description": "",
+      "price": 2.8
+    },
+    {
+      "id": 7,
+      "mainCategoryId": 5,
+      "imageName": "fanta.jpeg",
+      "articleName": "Fanta",
+      "description": "",
+      "price": 2.8
+    },
+    {
+      "id": 8,
+      "mainCategoryId": 5,
+      "imageName": "sprite.jpeg",
+      "articleName": "Sprite",
+      "description": "",
+      "price": 2.8
+    },
+    {
+      "id": 9,
+      "mainCategoryId": 5,
+      "imageName": "eistee.jpeg",
+      "articleName": "Eistee Pesca",
+      "description": "",
+      "price": 2
+    },
+    {
+      "id": 10,
+      "mainCategoryId": 3,
+      "imageName": "chickenwings.jpeg",
+      "articleName": "Chicken Wings",
+      "description": "Deep fired, mit Cocktail- Sauce",
+      "price": 7.5
+    },
+    {
+      "id": 11,
+      "mainCategoryId": 3,
+      "imageName": "chickenlegs.jpeg",
+      "articleName": "Hühnerhaxen",
+      "description": "Gegrillt, mit scharfem Dip",
+      "price": 7.5
+    },
+    {
+      "id": 12,
+      "mainCategoryId": 3,
+      "imageName": "mozzarellastick.jpeg",
+      "articleName": "Cheese Sticks",
+      "description": "Mozzarella",
+      "price": 9.5
+    },
+    {
+      "id": 13,
+      "mainCategoryId": 3,
+      "imageName": "chickennuggets.jpeg",
+      "articleName": "Chicken Wings",
+      "description": "",
+      "price": 4.5
+    }
   ],
   "profile": {
     "name": "typicode"
