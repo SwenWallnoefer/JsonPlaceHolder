@@ -183,12 +183,5 @@
       "addOnPrice": 0.8,
       "downPrice": 0.8
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "user": {
-    "name": "Swen",
-    "age": 42
-  }
+  ]
 }
