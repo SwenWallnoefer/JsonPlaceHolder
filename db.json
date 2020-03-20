@@ -132,6 +132,32 @@
       "price": 4.5
     }
   ],
+  "Ingredients": [
+    {
+      "id": 1,
+      "name": "Mozarella",
+      "addOnPrice": 1.2,
+      "downPrice": 1.2
+    },
+    {
+      "id": 2,
+      "name": "Schinken",
+      "addOnPrice": 1.5,
+      "downPrice": 1.4
+    },
+    {
+      "id": 3,
+      "name": "Zwiebel",
+      "addOnPrice": 0.8,
+      "downPrice": 0.8
+    },
+    {
+      "id": 4,
+      "name": "Knoblauch",
+      "addOnPrice": 0.8,
+      "downPrice": 0.8
+    }
+  ]
   "profile": {
     "name": "typicode"
   },
