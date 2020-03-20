@@ -132,6 +132,32 @@
       "price": 4.5
     }
   ],
+  "ArticleIngredients": [
+    {
+      "id": 1,
+      "articleId": 2,
+      "ingredientId": 1,
+      "defaultQty": 1
+    },
+    {
+      "id": 2,
+      "articleId": 2,
+      "ingredientId": 2,
+      "defaultQty": 1
+    },
+    {
+      "id": 3,
+      "articleId": 2,
+      "ingredientId": 3,
+      "defaultQty": 0
+    },
+    {
+      "id": 4,
+      "articleId": 2,
+      "ingredientId": 4,
+      "defaultQty": 1
+    }
+  ],
   "Ingredients": [
     {
       "id": 1,
@@ -157,7 +183,7 @@
       "addOnPrice": 0.8,
       "downPrice": 0.8
     }
-  ]
+  ],
   "profile": {
     "name": "typicode"
   },
