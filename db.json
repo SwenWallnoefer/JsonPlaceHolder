@@ -41,8 +41,7 @@
       "imageName": "schinkenpizza.jpeg",
       "articleName": "Pizza Schinken",
       "description": "Pizza Mozzerella, Tomaten, Prager- Schinken",
-      "price": 6.8,
-      "minPrice": 6.0
+      "price": 6.8
     },
     {
       "id": 3,
