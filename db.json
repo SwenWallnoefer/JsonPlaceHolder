@@ -138,13 +138,17 @@
       "id": 1,
       "articleId": 2,
       "ingredientId": 1,
-      "defaultQty": 1
+      "defaultQty": 1,
+      "minQty": 1,
+      "maxQty": 2
     },
     {
       "id": 2,
       "articleId": 2,
       "ingredientId": 2,
-      "defaultQty": 1
+      "defaultQty": 11,
+      "minQty": 0,
+      "maxQty": 3      
     },
     {
       "id": 3,
