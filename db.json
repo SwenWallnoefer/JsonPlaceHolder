@@ -146,7 +146,7 @@
       "id": 2,
       "articleId": 2,
       "ingredientId": 2,
-      "defaultQty": 11,
+      "defaultQty": 1,
       "minQty": 0,
       "maxQty": 3      
     },
